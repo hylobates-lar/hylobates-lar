@@ -8,9 +8,9 @@ I’ve worn many hats over the years, and this ‘jack of all trades’ mentalit
 
 🌱 I’m currently exploring all things front end. I'm passionate about UX, design and all things visual and/or interactive. I'd love to learn more about AR/VR and animation someday.
 
-💬  Ask me about travel, vegan cooking, natural skincare, animals/wildlife conservation, the fashion industry, UX/UI Design, all things Disney, or fun/interesting stories from my past. I have many.
+💬  Ask me about travel, vegan cooking, natural skincare, animals/wildlife conservation, the fashion industry, UX/UI Design, all things Disney, or random/interesting stories from my past. I have many.
 
-📫  How to reach me: alison[dot]v[dot]quaglia[at]gmail[dot]com
+📫  How to reach me: alison [dot] v [dot] quaglia [at] gmail [dot] com
 
 
 
