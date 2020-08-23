@@ -10,7 +10,7 @@ I’ve worn many hats over the years, and this ‘jack of all trades’ mentalit
 
 💬  Ask me about travel, vegan cooking, natural skincare, animals/wildlife conservation, the fashion industry, UX/UI Design, all things Disney, or fun/interesting stories from my past. I have many.
 
-📫  How to reach me: alison.v.quaglia@gmail.com
+📫  How to reach me: alison[dot]v[dot]quaglia[at]gmail[dot]com
 
 
 
