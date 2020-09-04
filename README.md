@@ -4,7 +4,7 @@ I recently graduated from Flatiron School’s software engineering program which
 
 I’ve worn many hats over the years, and this ‘jack of all trades’ mentality has ensured that I’m adaptable, a fast learner, able to communicate effectively with all personality types and always ready to roll up my sleeves and do what it takes to get the job done. A common thread exists among all of my past roles: taking a creative idea from concept to visual and/or tangible fruition. My transition into web development is a continuation of this thread, combining my experience and love for design with the ability to bring that concept to life through code. Empathy is at the core of my beliefs, so with that I also bring detailed attention to the user experience and the innate desire to bring joy to others. I believe that tech holds this incredible power to add value and impact the world; when mixed with creativity and innovation it holds the potential to create literal magic ✨. 
 
-***Current tech stack:** JavaScript ES6, React/Hooks, Redux, Ruby on Rails, PostgreSQL, HTML/CSS, Git, UX/UI Design, Sketch, Bootstrap, Ant Design, Wireframing, RESTful API, Pair Programming, Adobe Photoshop/Illustrator*
+***Current tech stack:** JavaScript ES6, React/Hooks, Redux, Ruby on Rails, PostgreSQL, HTML/CSS, Git, UX/UI Design, Sketch, Bootstrap, Ant Design, Wireframing, RESTful API, Pair Programming*
 
 ____________________________________________________________________________________________________________________________________________________________________
 
