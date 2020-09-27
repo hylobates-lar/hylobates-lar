@@ -8,7 +8,7 @@ I’ve worn many hats over the years, and this ‘jack of all trades’ mentalit
 
 ____________________________________________________________________________________________________________________________________________________________________
 
-💻  I’m currently working on sharpening my skills, making connections in this incredible dev community and studying up on data structures/algorithms for tech interviews. I've also been doing some tech talks for meetups and tech blogging on [Medium](https://medium.com/@alison.quaglia) for publications like Gitconnected, UX Collective, JavaScript In Plain English, Prototypr.io, The Startup and more. I feel pretty proud that all of my articles have been picked up by multiple publications and selected by curators for distribution in topics such as JavaScript, Programming, Visual Design and Design.
+💻  I’m currently working on sharpening my skills, making connections in this incredible dev community and studying up on data structures/algorithms for tech interviews. I've also been doing some tech talks for meetups and tech blogging on [Medium](https://medium.com/@alison.quaglia) for publications like Gitconnected, UX Collective, Better Programming, JavaScript In Plain English, Prototypr.io, The Startup and more. I feel pretty proud that all of my articles have been picked up by multiple publications and selected by curators for distribution in topics such as JavaScript, Programming, Visual Design and Design.
 
 🌱  I’m currently exploring all things front end. I'm passionate about UX, design and all things visual and/or interactive. I'd love to learn more about AR/VR and animation someday.
 
