@@ -6,7 +6,7 @@ I’ve worn many hats over the years, and this ‘jack of all trades’ mentalit
 
 ____________________________________________________________________________________________________________________________________________________________________
 
-💻  I’m currently working as a Software Engineer at Pinterest. I've also been doing some tech talks for Women Who Code and other meetups and tech blogging on [Medium](https://medium.com/@alison.quaglia) for publications like Gitconnected, UX Collective, Better Programming, JavaScript In Plain English, Prototypr, The Startup and more. I feel pretty proud that all of my articles have been picked up by multiple publications and selected by curators for distribution in topics such as JavaScript, Programming, Visual Design and Design.
+💻  I spent the last 5.5 years working as a Software Engineer at Pinterest. I've also done some tech talks for Women Who Code and other meetups and tech blogging on [Medium](https://medium.com/@alison.quaglia) for publications like Gitconnected, UX Collective, Better Programming, JavaScript In Plain English, Prototypr, The Startup and more. 
 
 📫  How to reach me: [LinkedIn](http://www.linkedin.com/in/alison-quaglia)
 
